@@ -1,0 +1,5 @@
+print("Hello.")
+name = input('What is your name? ')
+print("Hello, " + name + ".")
+nerd = input("Have you ever read or watched Lord of the Rings? I heard some moron named Hannah got yelled at earlier for not having done that. ")
+print("Who am I kidding, of course you have.")
